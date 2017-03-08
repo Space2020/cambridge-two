@@ -1,0 +1,111 @@
+/* Cambridge Art Gallery */
+
+
+/*    Global   */
+
+
+@import url('https://fonts.googleapis.com/css?family=Dosis:200,400,700');
+
+
+body{
+  font-size: 16px;
+}
+
+html{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-size: 6rem;
+  text-align: left;
+  font-family: 'Dosis', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+h2{
+  font-family: 'Dosis', sans-serif;
+}
+
+h3{
+  font-family: 'Dosis', sans-serif;
+}
+
+.section{
+  padding: 6rem 0;
+  text-align: center;
+}
+
+.section a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+
+
+
+
+/* About Section */
+
+.about{
+  padding: 17rem 0;
+  width: 100%;
+  background-color: red;
+  background-image: url("paint-brushes.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+/* Art Gallery Section */
+
+.art{
+  background-color: rgb(120, 0, 50);
+}
+
+
+
+
+
+/* Services Section */
+
+.services{
+  background-color: rgb(255, 255, 255);
+}
+
+.services a{
+  color: rgb(120, 0, 50);
+}
+
+
+
+
+/* Contact Section */
+
+.contact{
+  background-color: rgb(120, 0, 50);
+}
+
+.contact a{
+  color: rgb(255, 255, 255);
+}
+
+
+/* Footer Section */
+
+.footer{
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.footer h5{
+  font-weight: bold;
+}
+
+.follow-me i{
+   padding: 0 1rem;
+}
