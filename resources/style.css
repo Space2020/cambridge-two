@@ -109,3 +109,35 @@ h3{
 .follow-me i{
    padding: 0 1rem;
 }
+
+
+
+/* =================================================================================== */
+/*                      Art Gallery Index Page                                 */
+
+.img-gallery img{
+  max-width: 275px;
+  max-height: 250px;
+  border: 3px solid black;
+}
+
+.bg{
+  background-color: rgb(201, 196, 201);
+}
+
+.col-sm-12{
+  padding: 5px;
+}
+
+.col-md-3{
+  padding: 5px;
+}
+
+.col-md-4{
+  padding: 5px;
+}
+
+.container-fluid{
+  text-align: center;
+  padding: 20px 0;
+}
